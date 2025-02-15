@@ -1,16 +1,12 @@
 # CifraCesar-DiffieHellman
 Algoritmo em Python que envia e recebe informações em um servidor e cliente TCP, trabalhando com a troca de mensagens de Diffie-Hellman e a criptografia de César
 
-# Cifra de César com Diffie-Hellman
-
-Este projeto implementa uma comunicação segura entre um **cliente** e um **servidor** utilizando a **troca de chaves Diffie-Hellman** e a **Cifra de César** para criptografar as mensagens.
-
 ## 📌 Descrição
 
 O projeto contém dois arquivos em **Python** que representam:
 
-- **Servidor** (`server.py`)
-- **Cliente** (`client.py`)
+- **Servidor** (`Simple_tcpServer.py`)
+- **Cliente** (`Simple_tcpClient.py`)
 
 A comunicação entre eles segue o seguinte fluxo:
 
